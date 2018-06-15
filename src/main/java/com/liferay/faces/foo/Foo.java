@@ -26,4 +26,8 @@ public final class Foo {
 	public String getBar() {
 		return "barrrrrrrrrrr";
 	}
+
+	public String getBaz() {
+		return "baz";
+	}
 }
