@@ -24,6 +24,6 @@ import org.osgi.annotation.versioning.ProviderType;
 public final class Foo {
 
 	public String getBar() {
-		return "bar";
+		return "barrrrrrrrrrr";
 	}
 }
